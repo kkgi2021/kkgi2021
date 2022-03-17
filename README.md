@@ -29,7 +29,8 @@
 </div>
   
 ![react dominando componentes](https://github.com/kkgi2021/claitongimenis/blob/e5581da132439f0c36fcb0b0bc5c88ca212befac/assets/react%20dominando%20componentes.png)
-  
+##
+![react introduçao](https://user-images.githubusercontent.com/89050810/158904363-d9f448e1-8620-4122-8d84-309a3a0ff2c9.png)
   
 
   

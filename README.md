@@ -28,6 +28,7 @@
  ##
 </div>
   
-![react](https://github.com/kkgi2021/claitongimenis/blob/91ad16f6647d9150e4f31fc479ebd388c1ddc6e0/assets/react%20dominando%20componentes.png)
+![react dominando componentes small](https://user-images.githubusercontent.com/89050810/158898047-327994cb-8258-402b-9f0f-c95b26198714.png)
+
   
   

@@ -27,7 +27,7 @@
 ![Snake animation](https://github.com/kkgi2021/claitongimenis/blob/output/github-contribution-grid-snake.svg)
 ##
 </div>
-  
+ 
 ![react dominando componentes](https://github.com/kkgi2021/claitongimenis/blob/e5581da132439f0c36fcb0b0bc5c88ca212befac/assets/react%20dominando%20componentes.png)
 ##
 ![react introduçao](https://user-images.githubusercontent.com/89050810/158904363-d9f448e1-8620-4122-8d84-309a3a0ff2c9.png)
@@ -45,6 +45,24 @@
 ![AngularJS - Criação de interfaces web](https://user-images.githubusercontent.com/89050810/158907709-e62b5210-6584-4314-a543-05eec58d555e.png)
 ##
 ![angular introduçao](https://user-images.githubusercontent.com/89050810/158908089-4dd82bf4-44cc-4236-85e7-79352d82f76d.png)
+##
+![Google Analytics - Primeiros passos](https://user-images.githubusercontent.com/89050810/158908901-4fdd2d88-fdd3-4715-b3ca-e7cea8caa9e7.png)
+##
+![Acessibilidade - Desenvolvendo sites acessíveis](https://user-images.githubusercontent.com/89050810/158909249-dfc3bdbe-fac7-4b9d-98d8-ac0455a48e36.png)
+##
+![Acessibilidade - Criando Interfaces e Conteúdos Acessíveis](https://user-images.githubusercontent.com/89050810/158909652-296f1e12-1659-41b9-aef9-8d90f694a3ce.png)
+##
+![Acessibilidade - Introdução](https://user-images.githubusercontent.com/89050810/158910109-1ef2d2b7-8230-4f87-970b-787e71a457c4.png)
+##
+![UI - Introdução](https://user-images.githubusercontent.com/89050810/158910545-e54aca7b-25bd-43c1-bfd3-cb28c501677d.png)
+##
+![CSS - Sass](https://user-images.githubusercontent.com/89050810/158910824-ff30315f-8067-464e-ac67-899eff1a988e.png)
+##
+![HTML5 e CSS3 - Desenvolvimento web Básico](https://user-images.githubusercontent.com/89050810/158911278-c1f0471d-38cd-470c-ba67-9f5924ba2f59.png)
+##
+![TypeScript - Fundamentos](https://user-images.githubusercontent.com/89050810/158911733-d98b2d37-15de-40ed-95bf-c181ab6029c1.png)
+##
+
   
 
   

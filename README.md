@@ -28,6 +28,6 @@
  ##
 </div>
   
-  !.[certificado](https://www.treinaweb.com.br/certificado/55ERMPTDUXWW)
+  !.[].("https://www.treinaweb.com.br/certificado/55ERMPTDUXWW")
   
   

@@ -1,5 +1,6 @@
 ## Oiii eu sou a claiton gimenis, estudante e criador de conteúdo de programação e tecnologia!
-[![Estatísticas do GitHub do kkgi2021](https://github-readme-stats.vercel.app/api ?username=kkgi2021 )](https://github.com/kkgi/github-readme-stats)
+<div>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkgi2021)](https://github.com/anuraghazra/github-readme-stats)</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">

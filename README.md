@@ -31,6 +31,11 @@
 ![react dominando componentes](https://github.com/kkgi2021/claitongimenis/blob/e5581da132439f0c36fcb0b0bc5c88ca212befac/assets/react%20dominando%20componentes.png)
 ##
 ![react introduçao](https://user-images.githubusercontent.com/89050810/158904363-d9f448e1-8620-4122-8d84-309a3a0ff2c9.png)
+##
+![react fundamentos](https://user-images.githubusercontent.com/89050810/158905223-086d9ea2-a115-4381-b026-f8312a57f5c9.png)
+##
+![angular topicos avançados](https://user-images.githubusercontent.com/89050810/158905696-3c52a0a0-0b04-464d-9aec-bbe26a75791c.png)
+##
   
 
   

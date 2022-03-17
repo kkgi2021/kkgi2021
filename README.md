@@ -28,6 +28,6 @@
  ##
 </div>
   
-  !.[].("https://www.treinaweb.com.br/certificado/55ERMPTDUXWW")
+![react](https://github.com/kkgi2021/claitongimenis/blob/91ad16f6647d9150e4f31fc479ebd388c1ddc6e0/assets/react%20dominando%20componentes.png)
   
   

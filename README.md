@@ -1,4 +1,4 @@
-## olá eu sou a claiton gimenis, estudante e criador de conteúdo de programação e tecnologia!
+## sou estudante e criador de conteúdo de programação e tecnologia!
 <div align="center">
   <a href="https://github.com/kkgi2021/claitongimenis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kkgi2021&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -62,6 +62,15 @@
 ##
 ![TypeScript - Fundamentos](https://user-images.githubusercontent.com/89050810/158911733-d98b2d37-15de-40ed-95bf-c181ab6029c1.png)
 ##
+![JavaScript - Testes automatizados com Jasmine](https://user-images.githubusercontent.com/89050810/158913376-45d089a7-c0b4-41b8-90fc-290007c32270.png)
+##
+![RxJS - Programação reativa](https://user-images.githubusercontent.com/89050810/158914229-ecc6964b-1ee3-4af4-b54e-82bebae8b3b7.png)
+##
+![Npm - Gerenciador de pacotes para JavaScript](https://user-images.githubusercontent.com/89050810/158914473-f2935c77-bab7-4124-82d5-afe3222a0fc8.png)
+
+
+
+  
 
   
 

@@ -1,7 +1,8 @@
 
 ## sou estudante e criador de conteúdo de programação e tecnologia!
-[![card](https://github-readme-stats.vercel.app/api?username=kkgi2021&theme=Merko)](https://github.com/kkgi2021/)
-[![most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=kkgi2021&hide=html&layout=compact=true&theme=Merko)](https://github.com/kkgi2021/)
+[![most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=kkgi2021&hide=html&layout=compact=true&theme=dark)](https://github.com/kkgi2021/)
+[![card](https://github-readme-stats.vercel.app/api?username=kkgi2021&theme=dark)](https://github.com/kkgi2021/)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">

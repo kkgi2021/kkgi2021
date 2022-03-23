@@ -1,9 +1,7 @@
 
 ## sou estudante e criador de conteúdo de programação e tecnologia!
 <div align="center">
-  <a href="https://github.com/kkgi2021/kkgi2021">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kkgi2021&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="119em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkgi2021&layout=compact&langs_count=7&theme=dracula"/>
+  [![kkgi2021](https://github-readme-stats.vercel.app/api/top-langs/?username=kkgi2021&hide=html&layout=compact&theme=default)](https://github.com/kkgi2021/)
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

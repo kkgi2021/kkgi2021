@@ -1,9 +1,8 @@
 
-# logica-programa-o
 ## sou estudante e criador de conteúdo de programação e tecnologia!
 
 [![most languagen](https://github-readme-stats.vercel.app/api/top-langs/?username=kkgi2021&hide=html&layout=compact&theme=dark)](https://github.com/kkgi2021/)
-[![redmi extra](https://github-readme-stats.vercel.app/api/pin/?username=kkgi2021&repo=logica-programa-o&theme=dark)](https://github.com/kkgi2021/)
+[![redmi extra](https://github-readme-stats.vercel.app/api/pin/?username=kkgi2021&repo=kkgi2021&theme=dark)](https://github.com/kkgi2021/)
 
 [![card](https://github-readme-stats.vercel.app/api?username=kkgi2021&theme=dark&show_icons=true)](https://github.com/kkgi2021/)
 
@@ -25,17 +24,25 @@
   <img src="https://github.com/kkgi2021/kkgi2021/blob/main/assets/assets/react/react%20fundamentos.png" width="200" height="100">
   <img src="https://github.com/kkgi2021/kkgi2021/blob/1bfead0564a03dff1b9ea87eb1ff7dea1a334b6a/assets/assets/react/react%20topicos%20avan%C3%A7ados.png" width="200"     height="100">
   <img src="https://github.com/kkgi2021/kkgi2021/blob/main/assets/assets/react/react%20introdu%C3%A7ao.png" width="200" height="100">
- 
-</div>
+ </div>
+ ##
+<img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" />
+ <div>
+  <img src="https://github.com/kkgi2021/kkgi2021/blob/main/assets/assets/angular/AngularJS%20-%20Cria%C3%A7%C3%A3o%20de%20interfaces%20web.png" width="200"height="100"> 
+  <img src="https://github.com/kkgi2021/kkgi2021/blob/main/assets/assets/angular/angular%20cLi.png" width="200"height="100"> 
+  <img src="https://github.com/kkgi2021/kkgi2021/blob/main/assets/assets/angular/angular%20elementos%20customizados.png" width="200"height="100">
+  <img src="https://github.com/kkgi2021/kkgi2021/blob/main/assets/assets/angular/angular%20formularios.png"width="200"height="100">
+  <img src="https://github.com/kkgi2021/kkgi2021/blob/main/assets/assets/angular/angular%20introdu%C3%A7ao.png"width="200"height="100">
+  <img src="https://github.com/kkgi2021/kkgi2021/blob/main/assets/assets/angular/angular%20topicos%20avan%C3%A7ados.png"width="200"height="100">
+ </div>
 
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />       
 <div>
- <img src="https://cole o link do certificado aqui" width="300" height="200">
- 
-
- 
- 
+ <img src=" "200"height="100"> 
+ <img src=" "200"height="100">  
+ <img src=" "200"height="100">                          
+  
 </div>
  
 
@@ -58,8 +65,8 @@
 
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> | `https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB`
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" /> | `https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D`
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> | `https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white`
-<img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" /> | `https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white`
+
+
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> | `https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white`
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> | `https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white`
 <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" /> | `https://img.shields.io/badge/Material--UI-
@@ -178,19 +185,7 @@
 </div>
  
 
-##
-![angular topicos avançados](https://user-images.githubusercontent.com/89050810/158905696-3c52a0a0-0b04-464d-9aec-bbe26a75791c.png)
-##
-![angular formularios](https://user-images.githubusercontent.com/89050810/158906504-4eb669db-4415-489f-ac5f-d8b7ad368533.png)
-##
-![angular elementos customizados](https://user-images.githubusercontent.com/89050810/158906993-e03dcfdb-feb4-470a-9b9a-8d595c08a660.png)
-##
-![angular cLi](https://user-images.githubusercontent.com/89050810/158907308-1ad78d63-97ae-4f9f-9172-cafa9ffe9c11.png)
-##
-![AngularJS - Criação de interfaces web](https://user-images.githubusercontent.com/89050810/158907709-e62b5210-6584-4314-a543-05eec58d555e.png)
-##
-![angular introduçao](https://user-images.githubusercontent.com/89050810/158908089-4dd82bf4-44cc-4236-85e7-79352d82f76d.png)
-##
+
 ![Google Analytics - Primeiros passos](https://user-images.githubusercontent.com/89050810/158908901-4fdd2d88-fdd3-4715-b3ca-e7cea8caa9e7.png)
 ##
 ![Acessibilidade - Desenvolvendo sites acessíveis](https://user-images.githubusercontent.com/89050810/158909249-dfc3bdbe-fac7-4b9d-98d8-ac0455a48e36.png)

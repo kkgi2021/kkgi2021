@@ -29,17 +29,14 @@
   <img src="https://github.com/kkgi2021/kkgi2021/blob/main/assets/assets/react/react%20introdu%C3%A7ao.png" width="200" height="100">
  </div>
  
-<img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" />
- <div> 
+<img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" />  
   
-  [Curso de Angular - Tópicos avançados](https://www.treinaweb.com.br/certificado/X5MFWH8JXSMV)
+  [Curso de Angular - Tópicos avançados](https://www.treinaweb.com.br/certificado/X5MFWH8JXSMV)  
   [Curso de Angular - Formulários ](https://www.treinaweb.com.br/certificado/DHKUZ0EVICL6)  
   [Curso de Angular - Elementos Customizados: Componentes, Diretivas e Pipes ](https://www.treinaweb.com.br/certificado/LVN5IUPPMGHI)  
   [Curso de Angular - CLI ](https://www.treinaweb.com.br/certificado/XGMAT8JWZ6QE)  
   [Curso de AngularJS - Criação de interfaces web ](https://www.treinaweb.com.br/certificado/HZCGYM0NMC4Q)  
   [Curso de Angular - Introdução ](https://www.treinaweb.com.br/certificado/Z6LREIRTXAGO)  
- 
- </div>
  
   
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white " /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "/> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> 

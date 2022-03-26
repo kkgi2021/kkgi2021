@@ -22,15 +22,14 @@
 
 ## Skills
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
- <div>
-  <img src="https://github.com/kkgi2021/claitongimenis/blob/e5581da132439f0c36fcb0b0bc5c88ca212befac/assets/react%20dominando%20componentes.png" width="200"             height="100">
-  <img src="https://github.com/kkgi2021/kkgi2021/blob/main/assets/assets/react/react%20fundamentos.png" width="200" height="100">
-  <img src="https://github.com/kkgi2021/kkgi2021/blob/1bfead0564a03dff1b9ea87eb1ff7dea1a334b6a/assets/assets/react/react%20topicos%20avan%C3%A7ados.png" width="200"     height="100">
-  <img src="https://github.com/kkgi2021/kkgi2021/blob/main/assets/assets/react/react%20introdu%C3%A7ao.png" width="200" height="100">
- </div>
  
-<img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" />  
-  
+  [curso react topcos avançados](https://www.treinaweb.com.br/certificado/ZTCXO3EWONV4) 
+  [Curso de React - Dominando Componentes](https://www.treinaweb.com.br/certificado/55ERMPTDUXWW)
+  [curso de react introduçao](https://www.treinaweb.com.br/certificado/ES1SIO1PXNOX)
+  [curso react fundamentos](https://www.treinaweb.com.br/certificado/01XDMYU1FVQS) 
+ 
+<img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" />
+ 
   [Curso de Angular - Tópicos avançados](https://www.treinaweb.com.br/certificado/X5MFWH8JXSMV)  
   [Curso de Angular - Formulários ](https://www.treinaweb.com.br/certificado/DHKUZ0EVICL6)  
   [Curso de Angular - Elementos Customizados: Componentes, Diretivas e Pipes ](https://www.treinaweb.com.br/certificado/LVN5IUPPMGHI)  
@@ -40,47 +39,33 @@
  
   
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white " /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "/> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> 
-  <div>
-   <img src="https://github.com/kkgi2021/kkgi2021/blob/main/assets/assets/HTML5%20e%20CSS3%20-%20Desenvolvimento%20web%20B%C3%A1sico.png " width="200"height="100">
-   <img src="https://github.com/kkgi2021/kkgi2021/blob/main/assets/assets/css%20-sass/CSS%20-%20Sass.png" width="200"height="100">
- <img src="https://github.com/kkgi2021/kkgi2021/blob/main/assets/assets/html%20e%20css%20desenvolvimento%20avan%C3%A7ado.png " width="200"height="100">
- <img src="https://github.com/kkgi2021/kkgi2021/blob/main/assets/assets/html%20e%20css%20fundamentos.png " width="200"height="100"> 
-  </div>
   
+ [curso html5 e css3 desenvolvimento web basico](https://www.treinaweb.com.br/certificado/SYKFTNPVP43L)
+ [curso html5 e css3 desnvolvimento web avançado](https://www.treinaweb.com.br/certificado/DMPZKISY2XEO)
+ [curso html5 css3 introdução a geradores de sites estaticos](https://www.treinaweb.com.br/certificado/UAINL0OEFEAA)
+ [curso html5 css3 fundamentos](https://www.treinaweb.com.br/certificado/TF3QPGXENEYI)
+ [curso de css sass](https://www.treinaweb.com.br/certificado/BI8GL2WKRFNG)
+ 
+ 
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black " /> 
-  <div>
-   <img src="https://github.com/kkgi2021/kkgi2021/blob/main/assets/assets/JavaScript%20-%20Testes%20automatizados%20com%20Jasmine.png " width="200"height="100">  
-   <img src="https://github.com/kkgi2021/kkgi2021/blob/main/assets/assets/RxJS%20-%20Programa%C3%A7%C3%A3o%20reativa.png " width="200"height="100">
-   <img src="https://github.com/kkgi2021/kkgi2021/blob/main/assets/assets/Npm%20-%20Gerenciador%20de%20pacotes%20para%20JavaScript.png " width="200"height="100">  
-   <img src="https://github.com/kkgi2021/kkgi2021/blob/main/assets/assets/RxJS%20-%20Programa%C3%A7%C3%A3o%20reativa.png" width="200"height="100">
-   <img src="https://github.com/kkgi2021/kkgi2021/blob/main/assets/assets/java%20script%20avan%C3%A7ado.png " width="200"height="100">
-   <img src="https://github.com/kkgi2021/kkgi2021/blob/main/assets/assets/java%20script%20novidades%20es6.png " width="200"height="100">
-   <img src="https://github.com/kkgi2021/kkgi2021/blob/main/assets/assets/java%20script%20intermediario.png " width="200"height="100">
-   <img src="https://github.com/kkgi2021/kkgi2021/blob/main/assets/assets/java%20script%20basico.png " width="200"height="100">
-   
-</div>
   
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white " /> 
-  <div>
-   <img src="https://github.com/kkgi2021/kkgi2021/blob/main/assets/assets/TypeScript%20-%20Fundamentos.png " width="200"height="100">  
- </div>
-  
+ [curso js teste automatizados jasmine](https://www.treinaweb.com.br/certificado/LMGUO95ZPJBG)
+ [curso npm gerador pacostes js](https://www.treinaweb.com.br/certificado/FKTDTTDTZUD5)
+ [novidades ES6](https://www.treinaweb.com.br/certificado/KJT4UDLN2KLW)
+ [curso js avançado](https://www.treinaweb.com.br/certificado/2NSE7ESTLWJH)
+ [curso js intermediario](https://www.treinaweb.com.br/certificado/PF4ZOWXG4XUR)
+ [curso js basico](https://www.treinaweb.com.br/certificado/JX0NUYHQEFN8)
+ 
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white " /> 
-  <div>
-   <img src="https://github.com/kkgi2021/kkgi2021/blob/main/assets/assets/bootstrap%20componentes%20css.png" width="200"height="100"> 
-   <img src="https://github.com/kkgi2021/kkgi2021/blob/main/assets/assets/bootstrap%20fundamentos.png" width="200"height="100">  
-  </div>
+  
+ [curso bootstrap 4 fundamentos](https://www.treinaweb.com.br/certificado/MZK6EN9ETOGV)
+ [cuso de bootstrap 4 componentes css](https://www.treinaweb.com.br/certificado/506CDMOTR2NR)
   
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white " /> 
-  <div>
-   <img src="https://github.com/kkgi2021/kkgi2021/blob/main/assets/assets/logica%20de%20programa%C3%A7ao%20completo.png " width="200"height="100">  
-   <img src="https://github.com/kkgi2021/kkgi2021/blob/main/assets/assets/logica%20orientada%20a%20objeto.png " width="200"height="100"> 
-  </div>
-  
-  <img src=" " /> 
-  <div>
-   <img src=" " width="200"height="100">  
-  </div>
+ 
+ [curso logica orientada a objetos](https://www.treinaweb.com.br/certificado/HXLKIIR0HQ0O)
+ [curso logica de programação completo](https://www.treinaweb.com.br/certificado/IH1JTY14TKGK)
+ 
 
 
  

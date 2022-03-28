@@ -20,6 +20,9 @@
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
 </a>
  
+ 
+ ![snake gif](https://github.com/kkgi2021/kkgi2021/blob/output/github-contribution-grid-snake.svg)
+ 
  # jobs
  
 ## [programador br](https://github.com/kkgi2021/exercicios)

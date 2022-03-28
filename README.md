@@ -19,7 +19,17 @@
 <a href="https://www.linkedin.com/in/claiton-gimenis-644b08148" alt="linkedin" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
 </a>
+ 
+ # jobs
+ 
+## [programador br](https://github.com/kkgi2021/exercicios)
+ [![Snake animation](https://github.com/kkgi2021/kkgi2021/blob/output/github-contribution-grid-snake.svg)
 
+ 
+ 
+ 
+ 
+ 
 ## Skills
  
 ## <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />  
@@ -62,6 +72,6 @@
  ## [Curso logica orientada a objetos](https://www.treinaweb.com.br/certificado/HXLKIIR0HQ0O)
  ## [Curso logica de programação completo](https://www.treinaweb.com.br/certificado/IH1JTY14TKGK)
  ## [curso de logica de programaçao online](https://www.rlsystem.com.br/consulta-certificado/MjA4MDQtSU5G)
- ## ![Snake animation](https://github.com/kkgi2021/kkgi2021/blob/output/github-contribution-grid-snake.svg)
+ 
  
 

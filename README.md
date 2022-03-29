@@ -20,12 +20,12 @@
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
 </a>
   
- ![snake-svg](https://github.com/kkgi2021/kkgi2021/blob/output/github-contribution-grid-snake.svg) 
+### ![snake-svg](https://github.com/kkgi2021/kkgi2021/blob/output/github-contribution-grid-snake.svg) 
 
-# 
-studies
+# studies
+  
 ## [programador br](https://github.com/kkgi2021/exercicios)
-  ## [treinadev](https://github.com/kkgi2021/treina-dev)
+## [treinadev](https://github.com/kkgi2021/treina-dev)
 
  
  

@@ -1,8 +1,6 @@
 
 ## sou estudante e criador de conteúdo de programação e tecnologia!
 
-<img src="https://img.shields.io/github/followers/{kkgi2021}.svg?style=social&label=Follow&maxAge=2592000" />
-
 [![redmi extra](https://github-readme-stats.vercel.app/api/pin/?username=kkgi2021&repo=kkgi2021&theme=blue-green&show_icons=true)](https://github.com/kkgi2021/)
 
 

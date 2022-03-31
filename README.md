@@ -6,7 +6,7 @@
 [![redmi extra](https://github-readme-stats.vercel.app/api/pin/?username=kkgi2021&repo=kkgi2021&theme=blue-green&show_icons=true)](https://github.com/kkgi2021/)
 
 
-[![most languagen](https://github-readme-stats.vercel.app/api/top-langs/?username=kkgi2021&hide=html&layout=compact&theme=blue-green&show_icons=true)](https://github.com/kkgi2021/)
+[![most languagen](https://github-readme-stats.vercel.app/api/top-langs/?username=kkgi2021&layout=compact&theme=blue-green&show_icons=true)](https://github.com/kkgi2021/)
 
 <img src ="https://github-readme-stats.vercel.app/api?username=kkgi2021&theme=blue-green&show_icons=true" />
 

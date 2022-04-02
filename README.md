@@ -60,6 +60,7 @@
  ## [node html5 e css3 na pratica](https://www.nodestudio.com.br/certificado/58784771)
  ## [node design responsivo](https://www.nodestudio.com.br/certificado/58784772)
  ## <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black " /> 
+ ## [vue](https://www.treinaweb.com.br/certificado/OBROOXOEAGM0 )
   ## [Curso js teste automatizados jasmine](https://www.treinaweb.com.br/certificado/LMGUO95ZPJBG)
  ## [Curso npm gerador pacostes js](https://www.treinaweb.com.br/certificado/FKTDTTDTZUD5)
  ## [Novidades ES6](https://www.treinaweb.com.br/certificado/KJT4UDLN2KLW)

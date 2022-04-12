@@ -47,7 +47,7 @@
  ## [Curso de Angular - Introdução ](https://www.treinaweb.com.br/certificado/Z6LREIRTXAGO)
  ## <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
  ## [curso de git-versionamento de arquivos](https://www.rlsystem.com.br/consulta-certificado/MjA3NzgtSU5G)
- ## <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white " /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "/> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> 
+ ## <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white " /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "/> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />  
  ## [WEB: HTML5, CSS3, JavaScript & Ajax](http://soft.blue/certificado/55048380530F)
  ## [Curso html5 e css3 desenvolvimento web basico](https://www.treinaweb.com.br/certificado/SYKFTNPVP43L)
  ## [Curso html5 e css3 desnvolvimento web avançado](https://www.treinaweb.com.br/certificado/DMPZKISY2XEO)
@@ -55,6 +55,7 @@
  ## [Curso html5 css3 fundamentos](https://www.treinaweb.com.br/certificado/TF3QPGXENEYI)
  ## [Curso de css sass](https://www.treinaweb.com.br/certificado/BI8GL2WKRFNG)
  ## <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+ ## [ember](https://www.treinaweb.com.br/certificado/MBAZRYSO5YNZ)
  ## [curso node iniciante](https://www.nodestudio.com.br/certificado/58784764)
  ## [curso node css3 iniciante](https://www.nodestudio.com.br/certificado/58784768)
  ## [node html5 e css3 na pratica](https://www.nodestudio.com.br/certificado/58784771)

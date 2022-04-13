@@ -55,6 +55,7 @@
  ## [Curso html5 css3 fundamentos](https://www.treinaweb.com.br/certificado/TF3QPGXENEYI)
  ## [Curso de css sass](https://www.treinaweb.com.br/certificado/BI8GL2WKRFNG)
  ## <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+ ## [webpack](https://www.treinaweb.com.br/certificado/LLLPWRNPLMCE)
  ## [ember](https://www.treinaweb.com.br/certificado/MBAZRYSO5YNZ)
  ## [curso node iniciante](https://www.nodestudio.com.br/certificado/58784764)
  ## [curso node css3 iniciante](https://www.nodestudio.com.br/certificado/58784768)

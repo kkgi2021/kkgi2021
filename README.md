@@ -1,6 +1,5 @@
 ## sou estudante e criador de conteúdo de programação e tecnologia!
-<img src="https://bit.ly/3rCyaxw"/>
-<img src="https://img.shields.io/badge/-DD0031?logo=angular"/>
+
 
  
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=kkgi2021&repo=kkgi2021&layout=compact&theme=blue-green&show_icons=true" width="270px" />
@@ -11,11 +10,13 @@
 <a href="mailto:cacagimenis@gmail.com" alt="gmail" target="_blank">
 <img src="https://img.shields.io/badge/-Gmail-FF0000?--style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:cacagimenis@gmail.com" />
 </a>
+
 <a href="https://wa.me/5591991536740" alt="WhatsApp" target="_blank">
 <img src="https://img.shields.io/badge/-WhatsApp-25d366?--style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5591991536740"/>
-<a>  
+</a> 
+ 
 <a href="https://www.linkedin.com/in/claiton-gimenis-644b08148" alt="linkedin" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5.svg?--style=flat-square&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5.svg?--style=flat-square&logo=linkedin&logoColor=white"/a>
 
 
 ## [:trophy: Formação de Desenvolvedor Front-end](https://www.treinaweb.com.br/certificado/TRGFXJSV4OKM)   

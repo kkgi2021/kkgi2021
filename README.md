@@ -1,6 +1,6 @@
 ## sou estudante e criador de conteúdo de programação e tecnologia!
 
-
+<img src="https://bit.ly/3KfZPdU"/>
  
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=kkgi2021&repo=kkgi2021&layout=compact&theme=blue-green&show_icons=true" width="270px" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkgi2021&layout=compact&theme=blue-green&show_icons=true" width="270px" />
@@ -31,7 +31,7 @@
 [:mortar_board:Novidades ES6](https://www.treinaweb.com.br/certificado/KJT4UDLN2KLW)
 [:mortar_board:Curso js avançado](https://www.treinaweb.com.br/certificado/2NSE7ESTLWJH)
 [:mortar_board:Curso js intermediario](https://www.treinaweb.com.br/certificado/PF4ZOWXG4XUR)
-[:mortar_board:Curso js basico](https://www.treinaweb.com.br/certificado/JX0NUYHQEFN8) 
+[<img src="https://bit.ly/3KfZPdU"/> Curso js basico](https://www.treinaweb.com.br/certificado/JX0NUYHQEFN8) 
 [:mortar_board:Curso bootstrap 4 fundamentos](https://www.treinaweb.com.br/certificado/MZK6EN9ETOGV)
 [:mortar_board::mortar_board:Cuso de bootstrap 4 componentes css](https://www.treinaweb.com.br/certificado/506CDMOTR2NR) 
 [:mortar_board:Curso logica orientada a objetos](https://www.treinaweb.com.br/certificado/HXLKIIR0HQ0O)

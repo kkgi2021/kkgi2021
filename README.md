@@ -1,6 +1,5 @@
 ## sou estudante e criador de conteúdo de programação e tecnologia!
 
-<img src="https://bit.ly/3KfZPdU"/>
  
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=kkgi2021&repo=kkgi2021&layout=compact&theme=blue-green&show_icons=true" width="270px" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkgi2021&layout=compact&theme=blue-green&show_icons=true" width="270px" />
